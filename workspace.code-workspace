@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Week 19\\01_Hello_World_Again"
+		},
+		{
+			"path": "..\\..\\Week 19\\02_More_Variables"
+		},
+		{
+			"path": "..\\..\\Week 19\\03_Using_jQuery"
+		},
+		{
+			"path": "..\\..\\Week 19\\04_on_function"
+		},
+		{
+			"path": "..\\..\\Week 19\\05_Build_a_toggle"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "UX_UI_HW_19"
+	}
+}
